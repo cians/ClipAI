@@ -1,0 +1,1 @@
+xcodebuild -project ClipAI.xcodeproj -scheme ClipAI -configuration Release -derivedDataPath ./build
